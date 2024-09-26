@@ -1,0 +1,3 @@
+- 🌺: Hi, I’m @xandriska!
+- 🐈‍⬛ she/her
+- 📖 I'm learning Javascript, Python, SQL and GitHub as I prepare to start the Northcoders Data Engineering Bootcamp in December '24.
